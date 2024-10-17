@@ -165,7 +165,7 @@ const Home = () => {
                 </div>
                 <div className="d-flex gap-30 align-items-center">
                   <div>
-                    <h6>Headphones</h6>
+                    <h6>Headphone</h6>
                     <p>10 Items</p>
                   </div>
                   <img
